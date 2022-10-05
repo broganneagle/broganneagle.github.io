@@ -1,3 +1,15 @@
 p{
     color: blue;
 }
+p#scream{
+    color: red;
+    font-weight: bold;
+    background: black;
+    font-size: large;
+}
+
+div.bio{
+    font-weight: bold;
+    color: orange;
+    align-content: center;
+}
