@@ -6,10 +6,17 @@ p#scream{
     font-weight: bold;
     background: black;
     font-size: large;
+    padding: 0.5em;
 }
 
 div.bio{
+    border: 2px;
     font-weight: bold;
     color: orange;
     align-content: center;
+}
+
+a:hover{
+    color: red;
+    font-weight: bold;
 }
